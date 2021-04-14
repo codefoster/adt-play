@@ -1,0 +1,23 @@
+{
+    "@id": "dtmi:com:contoso:Widget;1",
+    "@type": "Interface",
+    "@context": "dtmi:dtdl:context;2",
+    "displayName": "Widget",
+    "contents": [
+        {
+            "@type": "Property",
+            "name": "name",
+            "schema": "string"
+        },
+        {
+            "@type": "Property",
+            "name": "size",
+            "schema": "string"
+        },
+        {
+            "@type": "Telemetry",
+            "name": "Status",
+            "schema": "string"
+        }
+    ]
+}

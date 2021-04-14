@@ -1,0 +1,17 @@
+{
+  "name": "adt-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/digital-twins-core": "^1.0.3",
+    "@azure/identity": "^1.2.5",
+    "command-line-args": "^5.1.1"
+  }
+}

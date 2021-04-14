@@ -1,0 +1,8 @@
+{
+    "$dtId": "widget#",
+    "$metadata": {
+        "$model": "dtmi:com:contoso:Widget;1"
+    },
+    "name": "Widget #",
+    "size": "large"
+}
